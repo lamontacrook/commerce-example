@@ -5,9 +5,9 @@
       {
         "component": "text",
         "valueType": "string",
-        "name": "product",
+        "name": "product_picker",
         "value": "",
-        "label": "Product"
+        "label": "Product Picker"
       }
     ]
   },

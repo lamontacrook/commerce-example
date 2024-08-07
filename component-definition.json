@@ -5,6 +5,18 @@
       "id": "default",
       "components": [
         {
+          "title": "Product Picker",
+          "id": "product_picker",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/product_picker/v1/product_picker",
+                "template": {}
+              }
+            }
+          }
+        },
+        {
           "title": "Text",
           "id": "text",
           "plugins": {
