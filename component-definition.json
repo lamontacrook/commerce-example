@@ -10,7 +10,7 @@
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/product_picker/v1/product_picker",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {}
               }
             }
