@@ -1,17 +1,5 @@
 [
   {
-    "id": "product_picker",
-    "fields": [
-      {
-        "component": "text",
-        "valueType": "string",
-        "name": "product_picker",
-        "value": "",
-        "label": "Product Picker"
-      }
-    ]
-  },
-  {
     "id": "title",
     "fields": [
       {
