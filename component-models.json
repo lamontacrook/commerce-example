@@ -49,7 +49,7 @@
     "fields": [
       {
         "component": "product_picker",
-        "name": "product_picker",
+        "name": "reference",
         "label": "Product Picker",
         "valueType": "string",
         "value": ""
