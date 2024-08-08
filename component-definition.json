@@ -30,14 +30,12 @@
         },
         {
           "title": "Products",
-          "id": "products",
+          "id": "product-picker",
           "plugins": {
             "xwalk": {
               "page": {
-                "resourceType": "core/franklin/components/block/v1/block",
+                "resourceType": "core/franklin/components/text/v1/text",
                 "template": {
-                  "name": "Products",
-                  "model": "products"
                 }
               }
             }
