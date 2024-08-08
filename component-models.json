@@ -49,7 +49,7 @@
     "fields": [
       {
         "component": "product_picker",
-        "name": "reference",
+        "name": "jcr:title",
         "label": "Product Picker",
         "valueType": "string",
         "value": ""
