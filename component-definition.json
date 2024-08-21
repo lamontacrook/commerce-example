@@ -29,19 +29,6 @@
           }
         },
         {
-          "title": "Product",
-          "id": "product_picker",
-          "plugins": {
-            "xwalk": {
-              "page": {
-                "resourceType": "core/franklin/components/text/v1/text",
-                "template": {
-                }
-              }
-            }
-          }
-        },
-        {
           "title": "Image",
           "id": "image",
           "plugins": {
@@ -99,6 +86,19 @@
                 "template": {
                   "columns": "2",
                   "rows": "1"
+                }
+              }
+            }
+          }
+        },
+        {
+          "title": "Product",
+          "id": "product_picker",
+          "plugins": {
+            "xwalk": {
+              "page": {
+                "resourceType": "core/franklin/components/product_picker/v1/product_picker",
+                "template": {
                 }
               }
             }
