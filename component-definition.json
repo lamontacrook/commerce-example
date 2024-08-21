@@ -29,7 +29,7 @@
           }
         },
         {
-          "title": "Products",
+          "title": "Product",
           "id": "product-picker",
           "plugins": {
             "xwalk": {
