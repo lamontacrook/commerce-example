@@ -71,6 +71,13 @@
         "name": "product_picker",
         "label": "Product Picker",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "valueType": "string",
+        "name": "buyNow",
+        "value": "",
+        "label": "Buy Now"
       }
     ]
   },
