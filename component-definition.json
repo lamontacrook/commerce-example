@@ -99,6 +99,8 @@
               "page": {
                 "resourceType": "core/franklin/components/product_picker/v1/product_picker",
                 "template": {
+                  "name": "Product Picker",
+                  "model": "product_picker"
                 }
               }
             }
