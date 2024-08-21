@@ -48,7 +48,7 @@
     "id": "products",
     "fields": [
       {
-        "component": "product_picker",
+        "component": "text",
         "name": "product_picker",
         "label": "Product Picker",
         "valueType": "string",
