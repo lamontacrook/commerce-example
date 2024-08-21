@@ -45,18 +45,6 @@
     ]
   },
   {
-    "id": "products",
-    "fields": [
-      {
-        "component": "text",
-        "name": "product_picker",
-        "label": "Product Picker",
-        "valueType": "string",
-        "value": ""
-      }
-    ]
-  },
-  {
     "id": "image",
     "fields": [
       {
@@ -72,6 +60,17 @@
         "name": "alt",
         "value": "Default alt",
         "label": "Alt Text"
+      }
+    ]
+  },
+  {
+    "id": "product",
+    "fields": [
+      {
+        "component": "product_picker",
+        "name": "product_picker",
+        "label": "Product Picker",
+        "valueType": "string"
       }
     ]
   },
